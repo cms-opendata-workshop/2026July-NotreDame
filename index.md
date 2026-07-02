@@ -4,11 +4,11 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Notre Dame"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Nieuwland Science Hall, Notre Dame, IN 46556 USA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Room 202, Nieuwland Science Hall, Notre Dame, IN 46556 USA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "41.702789146566076"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-86.23944441271972"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "28-30 July 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 #humantime: "FIXME"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2026-07-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -139,6 +139,8 @@ address.
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  See also the 
+  <a href="https://map.nd.edu/#/placemarks/1050/zoom/16/lat/41.702789146566076/lon/-86.23944441271972">Campus Map</a>.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
