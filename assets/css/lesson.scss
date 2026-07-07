@@ -421,7 +421,7 @@ summary {
 //-----------------------------
 .jumbotron {
   background-image: linear-gradient(rgba(238,238,238,0.75), rgba(238,238,238,0.75)),
-                     url('{{ relative_root_path }}/fig/odws-jumbotron.png');
+                     url('{{ site.baseurl }}/fig/odws-jumbotron.png');
   background-size: cover;
   background-position: center;
   background-color: #cccccc; 
