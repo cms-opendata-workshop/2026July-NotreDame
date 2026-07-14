@@ -8,7 +8,7 @@ root: .
 
 Welcome to the fifth workshop on the use of open data from the CMS experiment. We are really happy to have you here!
 
-Please do not forget to subscribe to our [mattermost team](https://mattermost.web.cern.ch/cmsodws2026/channels/workshop-participants), where dedicated discussion channels will be created to assist you during pre-exercises and workshop lessons.  
+Please do not forget to subscribe to our [mattermost team](https://mattermost.web.cern.ch/signup_user_complete/?id=7g38dkhmkjfmbjnfs66bdqqzrh&md=link&sbr=su), where dedicated discussion channels will be created to assist you during pre-exercises and workshop lessons.  
 In you are directed to a login page, please follow these steps: 
  * Click the main "Log in with CERN Single Sign-On" button -- even if you do not have a CERN account!
  * If you do have CERN credentials, you can log in with them on the CERN SSO page
