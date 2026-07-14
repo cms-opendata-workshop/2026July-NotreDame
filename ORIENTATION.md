@@ -15,6 +15,14 @@ In you are directed to a login page, please follow these steps:
  * Alternatively, you can log in by choosing "External email - Guest access", or one of the "Social account" sign-in options in the lower-right box.
  * Following log-in, you should be directed back to our mattermost channel
 
+Once you are in, you should be able to see two *channels*: "Town Square" and "Off-topic". 
+"Town Square" is a place for general questions for your peers or the organizers.
+
+You should also see a **+ Add channels** button/link. Click on that and then select
+**Browse channels**. You can add yourself then to **Pre-workshop activities**, which 
+we will use leading up to the workshop for questions and feedback about the activities
+we have asked you to complete, leading up to the workshop.
+
 <!--## Workshop strategy
 
 During the workshop you will be introduced to examples on how to access physical objects, like electrons, muons and jets, and their properties.  
